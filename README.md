@@ -22,11 +22,8 @@
   </a> 
   <a href="https://flutter.dev/">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mySql" style="vertical-align:top; margin:4px;">
-  </a> 
-    <a href="https://flutter.dev/">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mySql" style="vertical-align:top; margin:4px;">
-  </a> 
+  </a>
      <a href="https://flutter.dev/">
-    <img src=" https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px;">
+    <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" style="vertical-align:top; margin:4px;">
   </a> 
 </p>
