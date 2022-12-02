@@ -9,4 +9,13 @@
 <a href="https://flutter.dev/">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" style="vertical-align:top; margin:4px;">
   </a> 
+
+</p>
+<div align="center"> 
+  <h3>
+  Trying to learn and improve
+  </h3>
+</div>
+<p align="center">
+  
 </p>
